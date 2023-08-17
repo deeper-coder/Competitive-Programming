@@ -1,0 +1,3 @@
+# Competitive-Programming
+My own templates and implementation of important algorithms and data structures for competitive programming.
+My profile:[leetcode](https://leetcode.cn/u/deep_coder/?custom=eyJzb3J0Ijp7InNvcnRPcmRlciI6IkFTQ0VORElORyIsIm9yZGVyQnkiOiJSQU5LSU5HIn0sIm1pbiI6IjIwNTAiLCJtYXgiOiIyMzAwIiwiaW5jbHVkZVByZW1pdW0iOnRydWV9&page=1&sorting=W3sic29ydE9yZGVyIjoyNTUsIm9yZGVyQnkiOiJGUk9OVEVORF9JRCJ9XQ%3D%3D&status=NOT_STARTED)
