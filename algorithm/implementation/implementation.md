@@ -1,0 +1,14 @@
+## 单调容器递推
+运算结果具有单调性（连续不变或递增，比如按位或/乘法/按位与/gcd）；容器中值域较小，可以在内存循环遍历所有值并进行去重。
+### 按位或:
+1. [2411. 按位或最大的最小子数组长度](https://leetcode.cn/problems/smallest-subarrays-with-maximum-bitwise-or/solutions/1830911/by-endlesscheng-zai1/)
+2. [898. 子数组按位或操作](https://leetcode.cn/problems/bitwise-ors-of-subarrays/description/)
+### 按位与:
+1. [1521. 找到最接近目标值的函数值](https://leetcode.cn/problems/find-a-value-of-a-mysterious-function-closest-to-target/)
+### 最大公因数:
+1. [Codeforces 475D. CGCDSSQ](https://codeforces.com/problemset/problem/475/D)
+2. [Codeforces 1632D. New Year Concert](https://codeforces.com/problemset/problem/1632/D)
+### 乘法
+1. [蓝桥杯2021年第十二届国赛真题-和与乘积](https://www.dotcpp.com/oj/problem2622.html)
+### 折半查找：
+1. [805. 数组的均值分割](https://leetcode.cn/problems/split-array-with-same-average/description/?envType=featured-list&envId=csPrrWuf?envType=featured-list&envId=csPrrWuf)
