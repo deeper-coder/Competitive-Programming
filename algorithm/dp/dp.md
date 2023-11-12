@@ -9,3 +9,6 @@
 ## 最短路、最小费用
 1. [787. K 站中转内最便宜的航班](https://leetcode.cn/problems/cheapest-flights-within-k-stops/description/)
 2. [1928. 规定时间内到达终点的最小花费](https://leetcode.cn/problems/minimum-cost-to-reach-destination-in-time/description/?envType=featured-list&envId=QtDra5MY?envType=featured-list&envId=QtDra5MY)
+# dp优化
+## 线段树优化dp
+1. [2407. 最长递增子序列 II](https://leetcode.cn/problems/longest-increasing-subsequence-ii/description/)

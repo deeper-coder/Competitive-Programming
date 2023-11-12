@@ -12,3 +12,7 @@
 1. [蓝桥杯2021年第十二届国赛真题-和与乘积](https://www.dotcpp.com/oj/problem2622.html)
 ### 折半查找：
 1. [805. 数组的均值分割](https://leetcode.cn/problems/split-array-with-same-average/description/?envType=featured-list&envId=csPrrWuf?envType=featured-list&envId=csPrrWuf)
+
+## 划分
+ceil(a/b) =》(a + b - 1) / b
+[2910. 合法分组的最少组数](https://leetcode.cn/problems/minimum-number-of-groups-to-create-a-valid-assignment/description/)

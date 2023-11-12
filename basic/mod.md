@@ -1,0 +1,1 @@
+![mod基本原理](https://cdn.jsdelivr.net/gh/deeper-coder/blog-img@main/uPic/2023-10-15-12:28:25-mod.png)
