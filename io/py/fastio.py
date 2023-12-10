@@ -66,32 +66,13 @@ sys.stdout = IOWrapper(sys.stdout)
 input = lambda: sys.stdin.readline().rstrip("\r\n")
 
 
-def I():
-    return input()
-
-
-def II():
-    return int(input())
-
-
-def MII():
-    return map(int, input().split())
-
-
-def LI():
-    return list(input().split())
-
-
-def LII():
-    return list(map(int, input().split()))
-
-
-def GMI():
-    return map(lambda x: int(x) - 1, input().split())
-
-
-def LGMI():
-    return list(map(lambda x: int(x) - 1, input().split()))
+def I(): return input()
+def II(): return int(input())
+def MII(): return map(int, input().split())
+def LI(): return list(input().split())
+def LII(): return list(map(int, input().split()))
+def GMI(): return map(lambda x: int(x) - 1, input().split())
+def LGMI(): return list(map(lambda x: int(x) - 1, input().split()))
 
 
 # from types import GeneratorType
@@ -129,7 +110,7 @@ def LGMI():
 #     sys.stdout = open("DEBUG/data.out", "w")
 
 inf = float("inf")
-mod = 10**9 + 7
+mod = 10 ** 9 + 7
 
 # from sortedcontainers import SortedList, SortedSet
 
