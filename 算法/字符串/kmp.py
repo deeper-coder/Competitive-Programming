@@ -1,3 +1,5 @@
+# 非常好的一篇原理讲解（https://www.zhihu.com/question/21923021/answer/642165149）
+
 # 找到pattern在text中所有匹配位置
 def kmp(self, text: str, pattern: str) -> List[int]:
     m = len(pattern)

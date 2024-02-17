@@ -1,3 +1,4 @@
+# s和s[i:]的lcp
 def z_function(s):
     n = len(s)
     z = [0] * n
