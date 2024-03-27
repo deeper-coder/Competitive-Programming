@@ -1,3 +1,6 @@
+from 基础.二阶差分 import Solution
+
+
 class Trie:
     def __init__(self):
         self.children = dict()
