@@ -29,8 +29,6 @@ class Solution:
 
 
 # 只记录最长
-
-
 class Solution:
     def treeDiameter(self, edges: List[List[int]]) -> int:
         n = len(edges) + 1
