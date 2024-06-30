@@ -1,6 +1,6 @@
 import sys
 
-input = lambda:sys.stdin.readline().rstrip("\r\n")
+input = lambda: sys.stdin.readline().rstrip("\r\n")
 
 def I(): return input()
 def II(): return int(input())
@@ -10,7 +10,8 @@ def LII(): return list(map(int, input().split()))
 def GMI(): return map(lambda x: int(x) - 1, input().split())
 def LGMI(): return list(map(lambda x: int(x) - 1, input().split()))
 
-inf = float("inf")
-mod = 10**9 + 7
-# from sortedcontainers import SortedList
+def solve():
+
+
 # for _ in range(II()):
+print(solve())
