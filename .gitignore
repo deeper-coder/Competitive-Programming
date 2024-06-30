@@ -2,3 +2,4 @@
 .vscode/
 **/.cph
 **/__pycache__
+.idea/
