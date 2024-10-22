@@ -1,9 +1,10 @@
 import random
 
+BASE = random.randint(8 * 10 ** 8, 9 * 10 ** 8)
 class StringHash:
-    def __init__(self, s, MOD=random.randint(10**18, 2 * 10**18)):
+    def __init__(self, s, BASE, MOD=1_070_777_777):
         n = len(s)
-        self.BASE = BASE = 131  # or use 13331
+        self.BASE = BASE
         self.MOD = MOD
         self.h = h = [0] * (n + 1)
         self.p = p = [1] * (n + 1)
